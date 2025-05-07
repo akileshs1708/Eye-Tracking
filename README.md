@@ -1,7 +1,7 @@
 # Eye Tracking
 with Arduino and Ultrasonic Sensors
 
-This project implements a simple real-time eye tracking system using Arduino, ultrasonic sensors, and servo motors. The system tracks an object by measuring the distance from two ultrasonic sensors and adjusts the position of two servos to maintain visual contact with the object.
+This computer organisation project implements a simple real-time eye tracking system using Arduino, ultrasonic sensors, and servo motors. The system tracks an object by measuring the distance from two ultrasonic sensors and adjusts the position of two servos to maintain visual contact with the object.
 
 ## Components
 
